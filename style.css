@@ -1,0 +1,25 @@
+body {
+  background-image: url(images/patagonia.jpg);
+}
+
+h1 {
+  color:#fff;
+  text-align: center;
+  font-family: 
+}
+
+h3 {
+  color: #fff;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+ul {
+  margin-left: 75%;
+}
